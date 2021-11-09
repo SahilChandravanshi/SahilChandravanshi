@@ -42,6 +42,6 @@
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/kaliLinux.png" alt="kaliLinux" height="46px"/> </a>
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/vscode.svg" alt="vscode" height="45px"/> </a> 
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/neovimio-icon.svg" alt="neovim" height="43px"/> </a> 
-<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/google_cloud-icon.svg" alt="gcp" height="48x"/> </a>
-<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/virtualbox-icon.svg" alt="virtualBox" height="48px"/> </a>
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/google_cloud-icon.svg" alt="gcp" height="43x"/> </a>
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/virtualbox-icon.svg" alt="virtualBox" height="43px"/> </a>
 
