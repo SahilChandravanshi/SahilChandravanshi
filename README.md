@@ -29,7 +29,7 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
   
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/javascript/javascript.svg" alt="javascript" height="48px"/> </a>
-  <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/c%2B%2B/c%2B%2B.svg" alt="c++" height="52px"/> </a> 
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/c%2B%2B/c%2B%2B.svg" alt="c++" height="52px"/> </a> 
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/w3_html5-icon.svg" alt="html" height="42px"/> </a>
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/w3_css-icon.svg" alt="css" height="42px"/> </a>
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/react/react.svg" alt="reactjs" height="53px"/> </a> 
@@ -38,7 +38,10 @@
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/postgresql-icon.svg" alt="postresql" height="43px"/> </a>
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/bash/bash-colored.svg" alt="bash" height="54px"/> </a> 
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/python/python.svg" alt="python" height="54px"/> </a> 
-<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/Balsamiq.png" alt="balsamiq" height="41px"/> </a> 
-<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/kaliLinux.png" alt="kaliLinux" height="44px"/> </a> 
-<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/vscode.svg" alt="vscode" height="45px"/> </a> 
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/Balsamiq.png" alt="balsamiq" height="41px"/> </a>
+
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/kaliLinux.png" alt="kaliLinux" height="45px"/> </a> 
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/vscode.svg" alt="vscode" height="46px"/> </a> 
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/neovimio-icon.svg" alt="neovim" height="40px"/> </a> 
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/google_cloud-icon.svg" alt="gcp" height="47x"/> </a>
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/virtualbox-icon.svg" alt="virtualBox" height="46px"/> </a>
