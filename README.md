@@ -38,10 +38,10 @@
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/postgresql-icon.svg" alt="postresql" height="43px"/> </a>
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/bash/bash-colored.svg" alt="bash" height="54px"/> </a> 
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/python/python.svg" alt="python" height="54px"/> </a> 
-<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/Balsamiq.png" alt="balsamiq" height="41px"/> </a>
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/Balsamiq.png" alt="balsamiq" height="41px"/> </a><br>
 
-<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/kaliLinux.png" alt="kaliLinux" height="45px"/> </a> 
-<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/vscode.svg" alt="vscode" height="46px"/> </a> 
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/kaliLinux.png" alt="kaliLinux" height="44px"/> </a> 
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/vscode.svg" alt="vscode" height="45px"/> </a> 
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/neovimio-icon.svg" alt="neovim" height="40px"/> </a> 
-<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/google_cloud-icon.svg" alt="gcp" height="47x"/> </a>
-<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/virtualbox-icon.svg" alt="virtualBox" height="46px"/> </a>
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/google_cloud-icon.svg" alt="gcp" height="56px"/> </a>
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/virtualbox-icon.svg" alt="virtualBox" height="56px"/> </a>
