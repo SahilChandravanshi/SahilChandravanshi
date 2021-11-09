@@ -1,17 +1,13 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
 <div align="center">
 <img src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/Banner.gif" alt="cover" />
 </div>
-
-
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SahilChandravanshi.SahilChandravanshi)
 
-
 <img align="right" alt="image" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/Cybersecurity-Transparent-File.png" width="450px"/>
   
-
 <h2> About Me <img src = "https://media4.giphy.com/media/NnSFnC428LRHaxUNzj/giphy.gif?cid=ecf05e47sf7oi2y8ykm9u4kwz47lelu388otkwnvv3xe27k9&rid=giphy.gif&ct=s" width = 40px></h2>
 
 - 🔭 I’m currently working on React project and my Portfolio Website
