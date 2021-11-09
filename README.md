@@ -39,7 +39,6 @@
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/bash/bash-colored.svg" alt="bash" height="54px"/> </a> 
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/python/python.svg" alt="python" height="54px"/> </a> 
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/Balsamiq.png" alt="balsamiq" height="41px"/> </a><br>
-
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/kaliLinux.png" alt="kaliLinux" height="44px"/> </a> 
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/vscode.svg" alt="vscode" height="45px"/> </a> 
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/neovimio-icon.svg" alt="neovim" height="40px"/> </a> 
