@@ -10,6 +10,11 @@
   
 <h2> About Me <img src = "https://media4.giphy.com/media/NnSFnC428LRHaxUNzj/giphy.gif?cid=ecf05e47sf7oi2y8ykm9u4kwz47lelu388otkwnvv3xe27k9&rid=giphy.gif&ct=s" width = 40px></h2>
 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-chandravanshi/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SahilChandravanshi)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/its_sahilchandravanshi/)
+
 - 🔭 I’m currently working on React project and my Portfolio Website
 
 - 🌱 I’m currently learning Cryptography and Network Security 
