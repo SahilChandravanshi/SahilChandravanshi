@@ -60,12 +60,3 @@
   <br>
 
 
-
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
-
-
-<img src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/images/stat.svg" alt="WakaTime Activity"/>
