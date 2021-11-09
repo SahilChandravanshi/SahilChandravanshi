@@ -40,7 +40,6 @@
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/python/python.svg" alt="python" height="43px"/> </a> 
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/Balsamiq.png" alt="balsamiq" height="43px"/> </a>
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/kaliLinux.png" alt="kaliLinux" height="43px"/> </a>
-<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/vscode.svg" alt="vscode" height="45px"/> </a> 
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/google_cloud-icon.svg" alt="gcp" height="43x"/> </a>
 
 
