@@ -52,11 +52,19 @@
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
+
+  <br>
+   
+  <p align=center>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilChandravanshi&hide=c%23,powershell,Mathematica,Vim Snippet,Vim Script,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilChandravanshi&hide=c%23,powershell,Mathematica,Vim Snippet,Vim Script,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=500 src="https://wakatime.com/share/@SahilChandravanshi/537e2d87-0bd3-4368-9373-e4c236e4ab9e.png" />
     </a>
   </div>
-  <br>
+  <br><br><br><br><br><br><br><br><br>
+
 
 
