@@ -35,7 +35,7 @@
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/w3_html5-icon.svg" alt="html" height="43px"/> </a>
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/w3_css-icon.svg" alt="css" height="43px"/> </a>
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/react/react.svg" alt="reactjs" height="43px"/> </a> 
-<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/bootstrap/bootstrap.svg" alt="bootstrap" height="43px"/> </a> 
+
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/node/node.svg" alt="nodejs" height="43px"/> </a>
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/postgresql-icon.svg" alt="postresql" height="43px"/> </a>
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/bash/bash-colored.svg" alt="bash" height="43px"/> </a> 
