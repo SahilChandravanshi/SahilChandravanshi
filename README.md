@@ -63,7 +63,7 @@
   <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilChandravanshi&hide=c%23,powershell,Mathematica,VimSnippet,VimScript,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilChandravanshi&hide=c%23,powershell,Mathematica,VimSnippet,Vimscript,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://wakatime.com/share/@SahilChandravanshi/5becd30d-4ae9-4921-b62f-934e82a2098e.svg" />
