@@ -15,7 +15,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SahilChandravanshi)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/its_sahilchandravanshi/)
 
-- 🔭 I’m currently working on React project and my Portfolio Website
+- 🔭 I’m currently working on improving my back end skills 
 
 - 🌱 I’m currently learning Cryptography and Network Security 
 
@@ -24,6 +24,7 @@
 - 💬 Talk to me about Ethical Hacking, Cryptography, JavaScript, Freelancing Opportunities, Open Source 
 
 - 📚 &nbsp; When I am free, I read Books or play Guitar & Piano. Checkout my [Goodreads](https://www.goodreads.com/user/show/142664379-sahil-chandravanshi) to see the book I have read
+ - My [Website](https://sahilchandravanshi.com/)
 
 <br>
 <br>
