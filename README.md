@@ -3,7 +3,7 @@
 </div>
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50> </h1>
 <p align='center'>
- 
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SahilChandravanshi.SahilChandravanshi)
 
 <img align="right" alt="image" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/Cybersecurity-Transparent-File.png" width="450px"/>
@@ -13,8 +13,9 @@
 
 [![Website](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://www.sahilchandravanshi.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-chandravanshi/)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SahilChandravanshi)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/its_sahilchandravanshi/)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://www.sahilchandravanshi.com/)
+ 
 
 - 🔭 I’m currently working on improving my back end skills 
 
