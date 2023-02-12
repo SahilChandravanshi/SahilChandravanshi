@@ -39,11 +39,10 @@
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/w3_html5-icon.svg" alt="html" height="43px"/> </a>
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/w3_css-icon.svg" alt="css" height="43px"/> </a>
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/react/react.svg" alt="reactjs" height="43px"/> </a> 
-<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/solidity1.png" alt="solidity" height="43x"/> </a>
-
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/next.png" alt="nextjs" height="43px"/> </a>
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/Tailwind_CSS.png" alt="tailwindcss" height="43px"/> </a>
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/node/node.svg" alt="nodejs" height="43px"/> </a>
-<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/postgresql-icon.svg" alt="postresql" height="43px"/> </a>
-<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/bash/bash-colored.svg" alt="bash" height="43px"/> </a> 
+<img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/solidity1.png" alt="solidity" height="43x"/> </a>
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/python/python.svg" alt="python" height="43px"/> </a> 
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/14daecc96c42994352f7c244b08335cf.png" alt="Burpsuit" height="43px"/> </a>
 <img align="left" src="https://github.com/SahilChandravanshi/SahilChandravanshi/blob/main/IconPack/New%20Icons/kaliLinux.png" alt="kaliLinux" height="43px"/> </a>
