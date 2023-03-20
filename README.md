@@ -13,7 +13,6 @@
 
 [![Website](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://www.sahilchandravanshi.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-chandravanshi/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/its_sahilchandravanshi/)
 [![Codepen](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@sahilchandravanshi)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/sahilchandravanshi)
  
