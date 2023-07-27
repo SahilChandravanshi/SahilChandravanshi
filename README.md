@@ -11,7 +11,7 @@
 <h2> About Me <img src = "https://media4.giphy.com/media/NnSFnC428LRHaxUNzj/giphy.gif?cid=ecf05e47sf7oi2y8ykm9u4kwz47lelu388otkwnvv3xe27k9&rid=giphy.gif&ct=s" width = 40></h2>
 
 
-[![Website](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://www.sahilchandravanshi.com/)
+[![Website](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://sahilchandravanshi.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-chandravanshi/)
 [![Codepen](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@sahilchandravanshi)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/sahilchandravanshi)
